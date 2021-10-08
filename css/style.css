@@ -1,0 +1,63 @@
+.pic img{
+  position: absolute;
+}
+
+.write h1{
+  position: relative;
+margin-left:80px;
+margin-top:10px;
+color: blue;
+}
+.btc img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.ell img{
+  width: 100%;
+}
+
+.pe img{
+  width: 100%
+}
+
+.code p{
+  text-align: center;
+  font-size: 18.5px;
+  background-color: #228b22;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+p{
+  font-size: 20px;
+  text-align: center;
+}
+
+.button {
+  border-radius: 15px;
+         background-color:#228b22;
+         border: none;
+         color: white;
+         padding: 10px 15px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 25px;
+         margin: 4px 2px;
+         cursor: pointer;
+         }
+.but{
+  margin: auto;
+width: 90%;
+padding: 20px;
+
+  display: inline-block;
+  text-align: center;
+}
+.end p{
+  background-color:dodgerblue;
+  width: 100%;
+}
